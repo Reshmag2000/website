@@ -4,7 +4,7 @@
 }
 body{
     background-size: cover;
-    background-image: url("/images/bggg.jpg"); 
+    background-image: url("images/bggg.jpg"); 
     background-repeat: no-repeat;
 }
 h3{
